@@ -1,0 +1,205 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#Logo {
+  padding: 13.5px;
+  align-items: center;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 12px 80px;
+  margin-left: 390px;
+}
+
+#full {
+  color: #323232;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 150px;
+  margin-top: 25px;
+  display: inline-block;
+}
+
+#About {
+  display: inline-block;
+  vertical-align: middle;
+  color: #ff5da3;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#what {
+  color: #323232;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 20px;
+  margin-top: 25px;
+  display: inline-block;
+}
+
+#Contact {
+  color: #323232;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 20px;
+  margin-top: 25px;
+  display: inline-block;
+}
+
+#Help {
+  color: #323232;
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 20px;
+  margin-top: 25px;
+  display: inline-block;
+}
+
+#Contactus {
+  background-color: #00ac25;
+  padding: 8px 16px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 8px;
+  border: solid;
+  vertical-align: middle;
+  display: inline-block;
+  margin-left: 250px;
+}
+
+#teacher {
+    color: #000;
+    font-size: 72px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 293px;
+    margin-left: 302px;
+    margin-right: 302px;
+}
+
+#become {
+    color: #FF5DA3;
+    font-size: 72px;
+    font-weight: 700;
+    margin-left: 302px;
+    text-align: center;
+    margin-right: 302px;
+    margin-top: 24px;
+}
+
+#Unlock {
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+    width: 1316px;
+    margin-left: 302px;
+    margin-right: 302px;
+    margin-top: 24px;
+}
+
+#Enjoy {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 24px;
+}
+
+#share {
+    color: #6941C6;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    width: 716px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#instructor {
+    border: solid;
+    background-color: #00AC25;
+    padding: 16px 24px;
+    color: ;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    width: 233px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#okey {
+    background-color: #53389E;
+    height: 128px;
+    width: 1920px;
+    margin-top: 535px;
+    display: inline-block;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+#untitled {
+    width: 142px;
+    background-color: #53389E;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+#mark {
+    margin-left: 320px;
+    display: inline-block; 
+    vertical-align: middle;
+}
+
+
+
+#Overview {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 120px;
+    color: #E9D7FE;
+}
+
+#Features {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+}
+
+#Pricing {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+}
+
+#Careers {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+}
+
+#another {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+}
+
+#Privacy {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 32px;
+}
+
+#last {
+    margin-right: 352px;
+    display: inline-block;
+    margin-left: 120px;
+}
+
